@@ -1,3 +1,6 @@
 # SystemFolder
 ollama/
 openwebui/
+
+# env
+.env
